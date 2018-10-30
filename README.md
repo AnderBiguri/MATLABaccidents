@@ -115,7 +115,7 @@ One cornu was good, by why not just put more?
 
 # yarn
 
-![](/Images/yarn.png)
+![](/Images/Yarn.png)
 
 **Author:** Luis Mendo
 
