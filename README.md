@@ -33,7 +33,7 @@ Error unknown.
 
 # Zebra Bregman
 
-![](/Images/Zebra bregman.png)
+![](/Images/Zebra_bregman.png)
 
 **Author:** Ander Biguri
 
