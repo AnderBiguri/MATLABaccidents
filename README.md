@@ -115,10 +115,10 @@ One cornu was good, by why not just put more?
 
 # yarn
 
-![](/Images/yarn.png)
+![](/Images/Yarn.png)
 
 **Author:** Luis Mendo
 
 **Medium:** Too many things on png
 
-Yarn.
+Each line represents the trajectory of a multipath fading process on the complex plane, generated as correlated Gaussian noise. I meant to plot the absolute value as a function of an implicit time index, i.e. `plot(abs(x))` (equivalent to `plot(1:size(x,1), abs(x))`), but I mistakenly did `plot(x)`, which draws the paths on the complex plan (and gives prettier result).
