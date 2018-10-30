@@ -121,4 +121,5 @@ One cornu was good, by why not just put more?
 
 **Medium:** Too many things on png
 
-Yarn.
+Each line represents the complex-plane trajectory of a multipath fading process, generated as complex correlated Gaussian noise. I meant to plot the absolute value as a function of an implicit time index, i.e. `plot(abs(x))` (equivalent to `plot(1:size(x,1), abs(x))`), but I mistakenly did `plot(x)`, which draws the paths on the complex plane (and gives a prettier result).
+
