@@ -9,6 +9,8 @@ The following accident are included:
 
 # Bone-sets
 
+![](/Images/bone-sets.gif)
+
 **Author:** Ander Biguri
 
 **Medium:** Arithmetic Bug on gif
@@ -16,10 +18,11 @@ The following accident are included:
 Level-set algorithm attempting to segment a 3D volume of a CT scan of a human thorax. 
 An opposite sign generates a trippy biologically looking image while still partially segmenting the bone structure.
 
-![](/Images/bone-sets.gif)
 
 
 # Mondrian.gif
+
+![](/Images/mondrian.gif)
 
 **Author:** Ander Biguri
 
@@ -30,6 +33,8 @@ Error unknown.
 
 # Zebra Bregman
 
+![](/Images/Zebra bregman.png)
+
 **Author:** Ander Biguri
 
 **Medium:** Arithmetic Bug on png
@@ -37,6 +42,8 @@ Error unknown.
 Split-Bregman globally convex segmentation misses a sign, decides to go full sabanah horse.
 
 # triangle_mesh_index_error
+
+![](/Images/triangle_mesh_index_error.png)
 
 **Author:** Ander Biguri
 
@@ -46,6 +53,8 @@ Triangles look very nice when plotted, but the importance of a -1 in the code ca
 
 # subgradient_descend_bye_bye
 
+![](/Images/subgradient_descend_bye_bye.png)
+
 **Author:** Ander Biguri
 
 **Medium:** Mathematics on png
@@ -53,6 +62,8 @@ Triangles look very nice when plotted, but the importance of a -1 in the code ca
 When the derivatives are wrong, the gradient goes to hell (or in that general direction). The solution is be in the center.
 
 # Infiniteloop
+
+![](/Images/infiniteloop.png)
 
 **Author:** Ander Biguri
 
@@ -62,6 +73,8 @@ Look, I needed all those decimals, and float32 was not giving me all those decim
 
 # recosntruction_index_error
 
+![](/Images/recosntruction_index_error.png)
+
 **Author:** Ander Biguri
 
 **Medium:** Indexing error on png
@@ -69,6 +82,10 @@ Look, I needed all those decimals, and float32 was not giving me all those decim
 Sometimes bad indexing just generates pretty images. Just that, just pretty images.
 
 # covariance and covariance2
+
+![](/Images/covariance.png)
+
+![](/Images/covariance2.png)
 
 **Author:** Adriaan
 
@@ -78,6 +95,8 @@ Maybe a different colormap represent better this isolines of the covariance? May
 
 # map_of_USA
 
+![](/Images/map_of_USA.png)
+
 **Author:** Dev-il
 
 **Medium:** png
@@ -86,6 +105,8 @@ USA looked different in my school maps.
 
 # derp_cornu
 
+![](/Images/derp_cornu.png)
+
 **Author:** Luis Mendo
 
 **Medium:** Too many things on png
@@ -93,6 +114,8 @@ USA looked different in my school maps.
 One cornu was good, by why not just put more?
 
 # yarn
+
+![](/Images/yarn.png)
 
 **Author:** Luis Mendo
 
