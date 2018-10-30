@@ -16,6 +16,9 @@ The following accident are included:
 Level-set algorithm attempting to segment a 3D volume of a CT scan of a human thorax. 
 An opposite sign generates a trippy biologically looking image while still partially segmenting the bone structure.
 
+![](/Images/bone-sets.gif)
+
+
 # Mondrian.gif
 
 **Author:** Ander Biguri
