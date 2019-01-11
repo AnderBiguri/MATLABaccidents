@@ -115,13 +115,13 @@ One cornu was good, by why not just put more?
 
 # yarn
 
-![](/Images/yarn.png)
+![](/Images/Yarn.png)
 
 **Author:** Luis Mendo
 
 **Medium:** Too many things on png
 
-Yarn.
+Each line represents the complex-plane trajectory of a multipath fading process, generated as complex correlated Gaussian noise. I meant to plot the absolute value as a function of an implicit time index, i.e. `plot(abs(x))` (equivalent to `plot(1:size(x,1), abs(x))`), but I mistakenly did `plot(x)`, which draws the paths on the complex plane (and gives a prettier result).
 
 # Nope Inverse
 
@@ -132,3 +132,4 @@ Yarn.
 **Medium:**  Wrong inverse of geometric transform on png
 
 These lines should form a rectangular grid. Turns out the inverse I computed doesn't actually invert the original function.
+
