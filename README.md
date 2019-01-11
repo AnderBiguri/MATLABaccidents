@@ -122,3 +122,13 @@ One cornu was good, by why not just put more?
 **Medium:** Too many things on png
 
 Yarn.
+
+# Nope Inverse
+
+![](/Images/nopeInverse.png)
+
+**Author:** flawr
+
+**Medium:**  Wrong inverse of geometric transform on png
+
+These lines should form a rectangular grid. Turns out the inverse I computed doesn't actually invert the original function.
