@@ -133,3 +133,14 @@ Each line represents the complex-plane trajectory of a multipath fading process,
 
 These lines should form a rectangular grid. Turns out the inverse I computed doesn't actually invert the original function.
 
+
+# "sphere"
+
+![](/Images/sphere.png) 
+![](/Images/sphere_fixed.png)
+
+**Author:** flawr
+
+**Medium:** mixed sign- and off-by-one errors
+
+The shape in the first picture is supposed to be a unit sphere. The coordinates should have been normalized by `v = v/norm(v)^1`, instead they were normalized by `v=v*norm(v)^2`. The second picture shows an attempt to fix it by doing `v = v/norm(v)^4`.
